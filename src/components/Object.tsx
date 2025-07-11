@@ -18,15 +18,46 @@ const Object = () => {
   //   isMarried : false
   // }
 
-  type User = {
-    name: string;
-    email?: string;
-  }
+  // type User = {
+  //   name: string;
+  //   email?: string;
+  // }
 
-  const user: User = {
-    name: 'chandan gautam'
-  }
-  console.log(user);
+  // const user: User = {
+  //   name: 'chandan gautam'
+  // }
+  // console.log(user);
+
+  // type User = {
+  //   name: string;
+  //   detail: Detail;
+  //   address: Address;
+  // }
+
+  // const user1: User = {
+  //   name: 'chandan gautam',
+  //   detail: {
+  //     profession: 'MERN Stack Developer',
+  //     experience: 3
+  //   },
+  //   address: {
+  //     city: 'pune',
+  //     country: 'india'
+  //   }
+  // }
+
+  // console.log(user1)
+
+  // type Detail = {
+  //   profession: string;
+  //   experience: number;
+  // }
+
+  // type Address = {
+  //   city: string;
+  //   country: string;
+  // }
+
 
   return (
     <div>
