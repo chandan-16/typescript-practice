@@ -5,6 +5,8 @@ import Tuples from './components/Tuples'
 import Function from './components/Function'
 import Object from './components/Object'
 import Practice from './components/Practice'
+import Practicetwo from './components/Practicetwo'
+
 
 function App() {
 
@@ -16,6 +18,7 @@ function App() {
       <Function />
       <Object />
       <Practice />
+      <Practicetwo />
     </>
   )
 }

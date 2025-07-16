@@ -133,8 +133,8 @@ const Practice = () => {
 // const positiveNumbers: number[] = [1,2,3,4,5]
 // console.log(positiveNumbers)
 
-const data: number[] = [1,2,3,4]
-console.log(data)
+// const data: number[] = [1,2,3,4]
+// console.log(data)
 
 
 
