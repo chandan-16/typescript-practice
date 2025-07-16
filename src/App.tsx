@@ -6,6 +6,8 @@ import Function from './components/Function'
 import Object from './components/Object'
 import Practice from './components/Practice'
 import Practicetwo from './components/Practicetwo'
+import TypeNarrowing from './components/TypeNarrowing'
+import Enum from './components/Enum'
 
 
 function App() {
@@ -19,6 +21,8 @@ function App() {
       <Object />
       <Practice />
       <Practicetwo />
+      <TypeNarrowing />
+      <Enum />
     </>
   )
 }
