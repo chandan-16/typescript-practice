@@ -8,7 +8,8 @@ import Practice from './components/Practice'
 import Practicetwo from './components/Practicetwo'
 import TypeNarrowing from './components/TypeNarrowing'
 import Enum from './components/Enum'
-
+import PracticeThree from './components/PracticeThree'
+import Union from './components/Union'
 
 function App() {
 
@@ -23,6 +24,8 @@ function App() {
       <Practicetwo />
       <TypeNarrowing />
       <Enum />
+      <PracticeThree />
+      <Union />
     </>
   )
 }
