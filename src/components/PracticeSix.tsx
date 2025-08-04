@@ -37,12 +37,22 @@ const PracticeSix = () => {
     // const result = greet('chandan', 'Fullstack Developer', 25);
     // console.log(result);
 
+    // Objects & Type Aliases 
 
+    // type User = {
+    //     name : string;
+    //     age: number;
+    //     profession: string;
+    //     isMarried: boolean;
+    // }
 
-
-
-
-
+    // const user1: User = {
+    //     name: 'Chandan Gautam',
+    //     age: 25,
+    //     profession : 'Frontend Developer',
+    //     isMarried : false
+    // }
+    // console.log(user1.name, user1.age, user1.profession, user1.isMarried);
 
 
 
